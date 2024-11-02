@@ -77,6 +77,22 @@ $form-group-margin-bottom:       30px !default;
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'youngblood';
+	src:url('../fonts/youngblood/Youngblood.ttf?srf3rx') format('truetype'),
+		;
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'selfie';
+	src:url('../fonts/selfie/VL_Selfie_Regular.otf?srf3rx') format('opentype'),
+		;
+	font-weight: normal;
+	font-style: normal;
+}
+
 @mixin icomoon() {
 	
 	font-family: 'icomoon';
